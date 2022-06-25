@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring.version>2.3.0.RELEASE</spring.version>
-		<spring.mongodb.version>3.0.0.RELEASE</spring.mongodb.version>
+		<spring.mongodb.version>3.3.5</spring.mongodb.version>
 		<mongodb.version>4.0.3</mongodb.version>
 	</properties>
 
